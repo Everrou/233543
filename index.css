@@ -1,0 +1,48 @@
+
+body{
+    background-image: url("https://kartinkin.net/uploads/posts/2022-11/1668281423_kartinkin-net-p-art-karti-oboi-68.jpg");
+}
+
+h1{
+  color:darkgray;
+  text-align: center;
+    background-color: #100d0b;
+width: 600px;
+margin: auto;
+height: 40px;
+border-radius: 50px;
+}
+
+form{
+  width:350px;
+  margin:0 auto;
+}
+
+.card{
+    width: 165px;
+    float: left;
+    margin-right: 20px;
+}
+
+input,button {
+    border-radius: 50px;
+    box-sizing: border-box;
+    display: block;
+    float: left;
+    width: 100%;
+    padding: 20px;
+    font-size: 1.3em;
+    margin-bottom: 20px;
+    outline: none;
+    border: none;
+}
+
+input{
+    color:darkgray;
+}
+
+button{
+    color: #0c0c07;
+    background: white;
+    font-weight: bold;
+}
